@@ -1,0 +1,5 @@
+ git init (inicializa una carpeta como repositorio local)
+ git add NombreAechivo o git add . (agrega los archivos al repositorio)
+ git commit -m "Mensaje" (commit es un punto de guardado para el proyecto que estamos realizando, el mesaje es algo descriptivo de lo que estamos guardando)
+ Ligar con un repositorio remoto (el repositorio remoto es el de github, se copia el git remote add origin del repositorio que se creo en github y se copia en git bash)
+ git push -u origin master o git push -u origin main
